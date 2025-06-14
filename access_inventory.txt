@@ -1,0 +1,5 @@
+ID|Item Name|Price|Stock
+1|All-Weather Floor Mats|1000|199
+2|Magnetic Phone Mount|250|194
+3|Seat Organizer with USB Port|750|200
+4|LED Headlight Bulbs (H11)|1400|200

@@ -1,0 +1,5 @@
+ID|Item Name|Price|Stock
+1|AllRoad 205/55 R16|3200|197
+2|ToughTrek 265/70 R17|5600|200
+3|CityTour 195/65 R15|2900|200
+4|StormGrip 225/45 R18|4800|200

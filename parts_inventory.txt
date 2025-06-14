@@ -1,0 +1,5 @@
+ID|Item Name|Price|Stock
+1|Air Filter_AFX-200|350|197
+2|Spark Plug_NGX-R7|150|200
+3|Brake Pad Set|1200|197
+4|Radiator_CoolMax R310|3800|200
